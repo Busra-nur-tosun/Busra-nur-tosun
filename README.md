@@ -6,9 +6,11 @@
 - 🔭 
 Şu anda üzerinde çalışıyorum[Rent a Car](https://github.com/Busra-nur-tosun/ReCapProject-YazilimGelistirmeKamp)
 
-- 🌱 I’m currently learning **Angular,Js**
+- 🌱 Şu anda öğreniyorum **Angular,Js**
 
-- 👯 Şu anda öğreniyorum[E ticaret asp.net core+angular](https://github.com/Busra-nur-tosun/MyFinalProjectBackend &https://github.com/Busra-nur-tosun/MyFinalProjectFrontend)
+- 👯 Şu anda geliştiriyorum[E ticaret asp.net core+angular]
+- (https://github.com/Busra-nur-tosun/MyFinalProjectBackend &
+- https://github.com/Busra-nur-tosun/MyFinalProjectFrontend)
 
 - 📫 Bana nasıl ulaşılır **busranurtosun00@gmail.com**
 
