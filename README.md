@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba👋, Ben Büşra Nur Tosun</h1>
 <h3 align="center">Merhaba! Ben [Büşra Nur ], bir yazılım geliştiriciyim. Özellikle web geliştirme,görüntü işleme ve yapay zeka konularına ilgi duyuyorum. Sürekli öğrenmeye ve yeni teknolojilere adapte olmaya meraklıyım. Ayrıca açık kaynak topluluğuna katkıda bulunmaktan keyif alıyorum.Şu anda yazılım destek personeli olarak çalışmaktayım.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=busra-nur-tosun&label=Profile%20views&color=0e75b6&style=flat" alt="busra-nur-tosun" /> </p>
 
 - 🔭 
 Şu anda üzerinde çalışıyorum[Rent a Car](https://github.com/Busra-nur-tosun/ReCapProject-YazilimGelistirmeKamp)
